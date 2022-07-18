@@ -1,0 +1,28 @@
+.target {
+    background: silver;
+    height: 400px;
+    width: 300px;
+    box-sizing: border-box;
+    border: 10px solid red;
+    padding: 20px;
+
+
+}
+ img {
+     width: 250px;
+
+
+
+ }
+.point {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background: coral;
+    margin-bottom: 100px;
+    margin: 10px 20px 30px 40px;
+
+
+    padding: 20px;
+
+}

@@ -1,0 +1,91 @@
+.body {
+    height: 500px;
+    width: 1300px;
+    background: bisque;
+    margin: 20px;
+    padding: 20px 150px;
+
+}
+
+.border {
+    border: silver solid;
+
+}
+
+
+h1 {
+    text-align: center;
+
+}
+.block {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+
+}
+.card {
+    width: 250px;
+    height: 350px;
+    /*background: greenyellow;*/
+    border: silver solid;
+    margin-bottom: 20px;
+
+
+}
+
+.logo {
+    text-align: center;
+    font-size: 30px;
+    color: silver;
+
+
+}
+i {
+    margin-top: 30px;
+
+
+}
+
+h2 {
+    text-align: center;
+    /*color: sienna;*/
+}
+p {
+    text-align: justify;
+    box-sizing: border-box;
+    padding: 20px;
+
+
+}
+.bottem {
+    /*background: green;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+bottem {
+    height: 50px;
+    width: 100px;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title {
+    /*background: sienna;*/
+
+
+}
+
+
+h1 {
+    text-align: center;
+
+
+}

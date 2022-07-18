@@ -1,0 +1,75 @@
+.body {
+    width: 1100px;
+    height: 450px;
+    /*background: silver;*/
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid silver;
+
+}
+
+
+.card {
+    width: 300px;
+    height: 350px;
+    /*background: yellow;*/
+
+}
+
+.logo {
+    /*background: blue;*/
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-box;
+
+
+}
+
+i {
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+
+.border {
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 3px solid silver;
+
+}
+
+
+.content {
+    /*background: greenyellow;*/
+
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+p {
+
+    text-align: center;
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cise {
+    width: 150px;
+    height: 55px;
+    /*background: red;*/
+
+
+}

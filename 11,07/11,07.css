@@ -1,0 +1,48 @@
+html {
+
+
+    background: yellow;
+}
+
+
+body {
+    background: #000;
+    display: flex;
+    /*justify-content: flex-end;*/
+    /*align-items: flex-end;*/
+    /*!*flex-direction:column ;*!*/
+    /*!*flex-basis: 100px;*!*/
+
+    height: 2000px;
+
+    margin: 0px;
+
+}
+
+div {
+    /*width: 400px;*/
+    /*height: 300px;*/
+
+    background: coral;
+    padding: 50px;
+    margin: 30px;
+
+    box-sizing: border-box;
+    border: solid 30px blue;
+    border-left: greenyellow solid 60px;
+
+    color: yellow;
+    font-size: 15px;
+
+}
+h2 {
+
+    text-align: center;
+
+}
+p {
+    text-align: justify;
+
+
+
+}
